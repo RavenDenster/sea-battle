@@ -1,0 +1,16 @@
+{
+    "a": "attack",
+    "ms": "state_my_ships",
+    "es": "state_enemy_ships",
+    "q": "end",
+    "se": "show_enemy_ships",
+    "sm": "show_my_ships",
+    "j": "show_json_file",
+    "c": "change_json_file",
+    "f": "fields",
+    "n": "next_ability",
+    "s": "save_game",
+    "l": "load_game",
+    "u": "apply_ability",
+    "h": "help"
+}
